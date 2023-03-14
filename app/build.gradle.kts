@@ -32,7 +32,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass.set("fintx.kt.AppKt")
+    mainClass.set("fintx.AppKt")
 }
 
 tasks.named<Test>("test") {
